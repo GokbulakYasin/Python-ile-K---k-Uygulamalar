@@ -1,3 +1,4 @@
-x = int(input("Toplamak istediğiniz ilk sayıyı giriniz. : "))
-y = int(input("Toplamak istediğiniz ikinci sayıyı giriniz. : "))
-print("Toplam = " , x+y)
+sayi1 = int(input("Birinci sayıyı girin: "))
+sayi2 = int(input("İkinci sayıyı girin: "))
+toplam = sayi1 + sayi2
+print("Toplam:", toplam)
